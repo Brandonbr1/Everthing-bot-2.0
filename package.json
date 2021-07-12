@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Brandonbr1/Everthing-bot-2.0/issues"
   },
-  "homepage": "https://github.com/Brandonbr1/Everthing-bot-2.0#readme"
+  "homepage": "https://github.com/Brandonbr1/Everthing-bot-2.0#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
